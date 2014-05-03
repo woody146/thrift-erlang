@@ -1,0 +1,11 @@
+*.beam
+*~
+.project
+.generated
+
+deps/
+ebin/
+logs/
+.rebar/
+.settings/
+.eunit/

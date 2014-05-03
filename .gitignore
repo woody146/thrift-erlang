@@ -4,7 +4,6 @@
 .generated
 
 deps/
-ebin/
 logs/
 .rebar/
 .settings/
